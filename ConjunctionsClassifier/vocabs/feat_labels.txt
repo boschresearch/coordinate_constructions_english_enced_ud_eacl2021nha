@@ -1,0 +1,10 @@
+Number=Plur
+Number=Sing
+Person=1
+Person=2
+Person=3
+VerbForm=Fin
+VerbForm=Ger
+VerbForm=Inf
+VerbForm=Part
+Voice=Pass
